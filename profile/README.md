@@ -16,6 +16,7 @@ Robot perception and autonomy — estimating where a robot is, mapping and under
 [![Homepage](https://img.shields.io/badge/Homepage-irl--cbnu.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.irl-cbnu.com/)
 [![Publications](https://img.shields.io/badge/Publications-RA--L%20·%20T--ITS%20·%20IJCAS-8250df?style=flat-square&logo=ieee&logoColor=white)](https://www.irl-cbnu.com/international-journal-publications)
 [![Advisor](https://img.shields.io/badge/Advisor-Prof.%20Gon--Woo%20Kim-2da44e?style=flat-square)](https://www.irl-cbnu.com/professor)
+[![YouTube](https://img.shields.io/badge/YouTube-@irl--cbnu-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@irl-cbnu)
 
 </div>
 
